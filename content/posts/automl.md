@@ -9,7 +9,7 @@ categories: ["Python-library", "Open-Source"]
 series: ["Python Library"]
 cover:
   image: images/mlbench.jpeg
-  caption: "Auto ML Bench"
+  hiddenInList: true
 ShowToc: true
 TocOpen: true
 ---
