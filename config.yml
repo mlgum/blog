@@ -88,16 +88,16 @@ params:
 
   socialIcons:
     - name: github
-      title: View Source on Github
+      title: My Github
       url: "https://github.com/AnnNaserNabil"
     - name: Discord
-      title: Join discord community
+      title: Reach out to Discord
       url: "https://discordapp.com/users/aureliiuuss"
     - name: X
-      title: Share PaperMod on X/Twitter
+      title: I am on X/Twitter
       url: "https://x.com/ann_naser"
     - name: Facebook
-      title: Buy me a Ko-Fi :)
+      title: My Facebook
       url: "https://facebook.com/nabil.ann"
 
   editPost:
