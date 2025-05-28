@@ -103,7 +103,7 @@ params:
   editPost:
     URL: "https://discordapp.com/users/aureliiuuss"
     Text: "Suggest Changes"
-    appendFilePath: true
+    appendFilePath: false
 
   assets:
     disableHLJS: true
