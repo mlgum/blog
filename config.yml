@@ -6,8 +6,8 @@ theme: [hugo-PaperMod]
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
-buildFuture: false
-buildExpired: false
+buildFuture: true
+buildExpired: true
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
@@ -17,7 +17,7 @@ minify:
 
 pagination:
   disableAliases: false
-  pagerSize: 5
+  pagerSize: 10
 
 languages:
   en:
@@ -101,7 +101,7 @@ params:
       url: "https://facebook.com/nabil.ann"
 
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    URL: "https://discordapp.com/users/aureliiuuss"
     Text: "Suggest Changes"
     appendFilePath: true
 
