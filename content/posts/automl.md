@@ -7,6 +7,9 @@ summary: "This article is about new python library for ml model benchmarking."
 tags: ["python", "ML", "code", "OpenSource"]
 categories: ["Python-library", "Open-Source"]
 series: ["Python Library"]
+cover:
+  image: images/mlbench.jpeg
+  caption: "Auto ML Bench"
 ShowToc: true
 TocOpen: true
 ---
