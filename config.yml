@@ -1,6 +1,6 @@
-baseURL: "https://adityatelange.github.io/hugo-PaperMod/"
+baseURL: "https://ubermensch.is-a.dev/blog"
 title: PaperMod
-copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+copyright: "© [Ann Naser Nabil](https://github.com/AnnNaserNabil)"
 theme: [hugo-PaperMod]
 
 enableInlineShortcodes: true
@@ -38,8 +38,8 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
-        - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+        - name: Find Me On
+          url: https://bit.ly/m/Ubermensch
 
 outputs:
   home:
@@ -76,29 +76,29 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod's Demo"
+    Title: "Howdy"
     Content: >
-      👋 Welcome to demo page of Hugo's theme PaperMod!
+      👋 Welcome to my blog!
 
-      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
+      - **Here**  I write anything and everything I find usefull.
 
-      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
+      - Feel free to navigate to the posts and read .
 
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
+      - See you on the other side.
 
   socialIcons:
     - name: github
       title: View Source on Github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
+      url: "https://github.com/AnnNaserNabil"
     - name: Discord
       title: Join discord community
-      url: "https://discord.gg/ahpmTvhVmp"
+      url: "https://discordapp.com/users/aureliiuuss"
     - name: X
       title: Share PaperMod on X/Twitter
-      url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
-    - name: KoFi
+      url: "https://x.com/ann_naser"
+    - name: Facebook
       title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/adityatelange"
+      url: "https://facebook.com/nabil.ann"
 
   editPost:
     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
