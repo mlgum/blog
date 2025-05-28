@@ -9,7 +9,7 @@ categories: ["Python-library", "Open-Source"]
 series: ["Python Library"]
 cover:
   image: images/mlbench.jpeg
-  hiddenInList: true
+  hiddenInList: false
 ShowToc: true
 TocOpen: true
 ---
