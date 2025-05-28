@@ -8,7 +8,7 @@ tags: ["python", "ML", "code", "OpenSource"]
 categories: ["Python-library", "Open-Source"]
 series: ["Python Library"]
 cover:
-  image: images/mlbench.jpeg
+  image: content/posts/images/mlbench.jpeg
   hiddenInList: false
 ShowToc: true
 TocOpen: true
